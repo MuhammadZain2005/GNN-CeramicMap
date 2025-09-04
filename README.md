@@ -87,7 +87,6 @@ GNN-CeramicMap/
 ┌──────────────────────────┐
 │   Predictions            │
 │  • Energy per atom (eV)  │
-│  • Forces (via ∇E)       │
 └──────────────────────────┘
 ```
 ---

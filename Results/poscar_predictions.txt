@@ -1,0 +1,3 @@
+Unit cell: -9.849028 eV/atom (15 atoms)
+Supercell: -9.768786 eV/atom (405 atoms)
+Percent difference: 0.8147%

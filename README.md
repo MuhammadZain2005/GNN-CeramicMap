@@ -1,4 +1,4 @@
-# Enhanced GCN for Atomic Energy Prediction  
+# GNN Ceramic Map
 
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch)  
 ![Torch Geometric](https://img.shields.io/badge/Graph%20Library-PyTorch%20Geometric-green)  
